@@ -3,7 +3,7 @@ Group: 12
 
 Team member:
 
-	- Đỗ Thanh Hiếu - BI10-059 n
+	- Đỗ Thanh Hiếu - BI10-059 
 	- Trần Trung Hiếu - BI10-058
 	- Đỗ Đình Phúc - BI10-137
 	- Nguyễn Viết Nhân - BI10-132
